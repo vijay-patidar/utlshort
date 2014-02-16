@@ -1,0 +1,10 @@
+in this url sortner 
+i made 4 file
+	1).htaccess
+	2)index.php
+	3)index.html
+	4)insert.php
+
+1)
+	in this file i check for index.php file if './url/j/xxxxxxxx' found
+	then if convert it into
